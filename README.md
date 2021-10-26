@@ -8,5 +8,5 @@
 
 <div align="center">
   <!-- <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Niush-Profile" /> -->
-  <img align="center" style="height:25px;" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Niush-Profile-test&style=for-the-badge&logo=github" />
+  <img align="center" style="height:25px;" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Niush-Profile-V1&style=for-the-badge&logo=github" />
 </div>
