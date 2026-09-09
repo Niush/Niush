@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  : 948, Total PRs: 308, Total Issues: 19, Total Discussions Started: 1, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  : 948, Total PRs: 311, Total Issues: 19, Total Discussions Started: 1, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 108.53295174184005;
+        stroke-dashoffset: 108.49715757938161;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -103,6 +104,7 @@
 
         
         <defs>
+          
           <linearGradient
             id="gradient"
             gradientTransform="rotate(60)"
@@ -110,11 +112,13 @@
           >
             <stop offset="0%" stop-color="#ffffff" />,<stop offset="100%" stop-color="#dcdcdc" />
           </linearGradient>
+          
         </defs>
         
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="5"
@@ -188,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >308</text>
+      >311</text>
     </g>
   </g><g transform="translate(0, 60)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
